@@ -1,5 +1,5 @@
 ---
-abstract: 'get infomation from a subroutine reference'
+abstract: 'get infomation (prototype, attributes, name, etc) from a subroutine reference'
 author:
   - 'Hiroki Honda (Cside) <cside.story [at] gmail.com>'
 build_requires:
@@ -29,4 +29,4 @@ requires:
 resources:
   license: http://dev.perl.org/licenses/
   repository: git://github.com/Cside/Sub-Inspector.git
-version: 0.01
+version: 0.02
